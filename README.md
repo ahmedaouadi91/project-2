@@ -38,10 +38,7 @@ recommendations
 To have good income people should :
 * Having High education level (prof-school and Doctorate )
 * Choosing high paid occupation such as prof-speciality ,exec-managerial
-* 
-
-
-
+  
 
   
 * Dataset 2 : Crop recommendation
