@@ -13,9 +13,25 @@ business problem
 
    analytical insights
    ![téléchargement](https://github.com/ahmedaouadi91/project-2/assets/137283070/f3de71ea-272e-4e5a-a88d-e664103922e0)
-   he barplot above represents the distribution of income according to capital gain, this barplot shows us a significant difference between the two classes in terms of the value of capital gain (>50K and <=50K)
+   
+   the barplot above represents the distribution of income according to capital gain, this barplot shows us a significant difference between the two classes in terms of the value of capital gain (>50K and <=50K)
 
 The higher the capital gain, the higher the income too. So we can conclude that the capital gain is a very important factor in determining income
+
+![téléchargement (2)](https://github.com/ahmedaouadi91/project-2/assets/137283070/f7530e7b-8469-43a6-945c-3dc22994573e) 
+The bar plot above represents the distribution of capital gain according to occupation. This barplot shows us that certain occupations have a high capital gain such as prof-speciality, exec-managerial and sales occupation while the other occupations have corresponding low capital gain.
+
+Since we have already determined previously that capital gain is an important factor in determining income.We reveal the importance of occupation for determining income
+
+The metrics for the best model
+Accuracy = 0.84
+Precision = 0.87
+recall = 0.93
+f1-score = 0.90 
+
+
+
+
 
   
 * Dataset 2 : Crop recommendation
