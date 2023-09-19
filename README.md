@@ -43,7 +43,7 @@ To have good income people should :
   
 * Dataset 2 : Crop recommendation
 
-business problem
+Business problem :
   
 A crop yield results from various factors. Intuitively, it is influenced by the ratio of Nitrogen ,Phosphorous and Potassium content in soil ,temperature ,humidity ,ph value of the soil and rainfall. this dataset allows the users to build a predictive model to recommend the most suitable crops to grow in a particular farm based on various parameters.
 
@@ -62,17 +62,18 @@ The bar plot above represents the distribution of rainfall according to Labes. i
 
 Nitrogen is an essential element for plant growth and production.The bar plot above represents the distribution of nitrogen according to Labes. in other words the variation in nitrogen needs depending on labels. This barplot shows us that certain label need a high nitrogen quantity such as rice,maize,banana,watermelon,muskmelon and cotton while the other label have low nitrogen need.
 
-The metrics for the best model
+The metrics for the best model :
 Accuracy = 0.99
 Precision = 0.99
 recall = 0.99
 f1-score = 0.99
 
-A description of how well your model would solve your business problem
+A description of how well your model would solve your business problem :
 
 The Model will predict if what kind of crops we should plant under given condition (N,P,K,temperature , ph ,rainfall.These will help us to obtain the best harvest yield and therefore economic profitability
 
-recommendations
+Recommendations :
+
 To have best harvest yield and economic profitability Farmer should :
 * Get a clear idea of field environmental conditions (temperature ,rainfall) and soil resources (N , P, K , ph )
 * Choose crops according to model predictions
